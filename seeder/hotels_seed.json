@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "marina-bay-sands",
+    "name": "Marina Bay Sands Singapore",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Singapore",
+    "city": "Singapore",
+    "area": "Marina Bay, Singapore",
+    "distanceText": "0.2 km dari Gardens by the Bay",
+    "badge": "Preferred Partner",
+    "rating": 9.6,
+    "reviewsCount": 6420,
+    "originalPrice": 10500000,
+    "price": 7950000,
+    "discountPercent": 24,
+    "flashSale": true,
+    "flashSaleRemaining": 3,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": false,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1565967511849-76a60a516170?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1565967511849-76a60a516170?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Ikon arsitektur dunia di tepi Marina Bay dengan kolam renang infinity rooftop terbesar di lantai 57. Menghadap langsung ke cakrawala gemerlap Singapura, pusat perbelanjaan The Shoppes, dan atraksi kelas dunia.",
+    "reviewBreakdown": {
+      "cleanliness": 9.8,
+      "comfort": 9.7,
+      "service": 9.6,
+      "location": 9.9
+    },
+    "coordinates": {
+      "lat": 1.2838,
+      "lng": 103.8591
+    },
+    "rooms": [
+      {
+        "id": "mbs-deluxe-harbour",
+        "name": "Deluxe Room Harbour View",
+        "size": "39 m²",
+        "bedType": "1 King Bed atau 2 Twin Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 10500000,
+        "price": 7950000,
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Akses Rooftop Infinity Pool",
+          "Pemandangan Pelabuhan",
+          "Kamar Mandi Marmer",
+          "Smart TV 55\"",
+          "Nespresso"
+        ],
+        "remainingRooms": 3
+      },
+      {
+        "id": "mbs-sands-premier",
+        "name": "Sands Premier Suite City View",
+        "size": "95 m²",
+        "bedType": "1 Grand King Bed",
+        "maxGuests": 3,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 16800000,
+        "price": 13200000,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Balkon Marina Bay",
+          "Akses Club55 Lounge",
+          "Butler Service 24 Jam",
+          "Jacuzzi Mewah",
+          "Free Mini Bar"
+        ],
+        "remainingRooms": 1
+      }
+    ]
+  },
+  {
+    "id": "fullerton-singapore",
+    "name": "The Fullerton Hotel Singapore",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Singapore",
+    "city": "Singapore",
+    "area": "Marina Bay & Boat Quay, Singapore",
+    "distanceText": "0.4 km dari Merlion Park",
+    "badge": "Heritage Luxury",
+    "rating": 9.5,
+    "reviewsCount": 4150,
+    "originalPrice": 6800000,
+    "price": 5200000,
+    "discountPercent": 24,
+    "flashSale": true,
+    "flashSaleRemaining": 2,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Monumen warisan bersejarah megah Neoklasik tahun 1928 di muara Singapore River. Menghadirkan kemewahan abadi dengan kolam renang infinity berpanorama sungai kota dan akses langsung ke Merlion Park.",
+    "reviewBreakdown": {
+      "cleanliness": 9.7,
+      "comfort": 9.6,
+      "service": 9.8,
+      "location": 9.8
+    },
+    "coordinates": {
+      "lat": 1.2864,
+      "lng": 103.8533
+    },
+    "rooms": [
+      {
+        "id": "fullerton-heritage-room",
+        "name": "Heritage Courtyard Room",
+        "size": "42 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 6800000,
+        "price": 5200000,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Bak Mandi Marmer",
+          "Perlengkapan Balmain",
+          "Balkon Klasik",
+          "Akses Kolam Infinity",
+          "Teh TWG"
+        ],
+        "remainingRooms": 2
+      }
+    ]
+  },
+  {
+    "id": "capella-singapore",
+    "name": "Capella Singapore",
+    "type": "Resort",
+    "starRating": 5,
+    "country": "Singapore",
+    "city": "Singapore",
+    "area": "Sentosa Island, Singapore",
+    "distanceText": "0.3 km dari Pantai Palawan Sentosa",
+    "badge": "Preferred Partner",
+    "rating": 9.7,
+    "reviewsCount": 1980,
+    "originalPrice": 11500000,
+    "price": 8800000,
+    "discountPercent": 23,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": false,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Resor pulau tropis mewah rancangan Foster + Partners di Sentosa. Memadukan gedung kolonial abad ke-19 dengan kurva modern spektakuler di tengah 30 hektar hutan tropis yang dihuni burung merak.",
+    "reviewBreakdown": {
+      "cleanliness": 9.9,
+      "comfort": 9.8,
+      "service": 9.9,
+      "location": 9.5
+    },
+    "coordinates": {
+      "lat": 1.2505,
+      "lng": 103.8242
+    },
+    "rooms": [
+      {
+        "id": "capella-premier-sea",
+        "name": "Premier Sea Facing Room",
+        "size": "77 m²",
+        "bedType": "1 King Bed Super King",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 11500000,
+        "price": 8800000,
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Balkon Menghadap Laut",
+          "Jacuzzi Pribadi Luar Ruang",
+          "Kultist Butler",
+          "Perlengkapan Aesop"
+        ],
+        "remainingRooms": 2
+      }
+    ]
+  },
+  {
+    "id": "parkroyal-pickering",
+    "name": "PARKROYAL COLLECTION Pickering",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Singapore",
+    "city": "Singapore",
+    "area": "Chinatown & Clarke Quay, Singapore",
+    "distanceText": "0.2 km dari Clarke Quay MRT",
+    "badge": "Eco Luxury",
+    "rating": 9.3,
+    "reviewsCount": 3860,
+    "originalPrice": 5100000,
+    "price": 3950000,
+    "discountPercent": 22,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Konsep revolusioner hotel-in-a-garden dengan taman gantung terasering 15.000 m². Menghadirkan kolam renang infinity dengan cabana sangkar burung unik berlatar langit Chinatown.",
+    "reviewBreakdown": {
+      "cleanliness": 9.4,
+      "comfort": 9.3,
+      "service": 9.3,
+      "location": 9.6
+    },
+    "coordinates": {
+      "lat": 1.2858,
+      "lng": 103.8465
+    },
+    "rooms": [
+      {
+        "id": "pr-collection-urban",
+        "name": "Urban Room Garden View",
+        "size": "32 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 5100000,
+        "price": 3950000,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Pemandangan Taman Bertingkat",
+          "Rainshower",
+          "Filter Air Minum",
+          "Smart TV"
+        ],
+        "remainingRooms": 4
+      }
+    ]
+  },
+  {
+    "id": "raffles-singapore",
+    "name": "Raffles Singapore",
+    "type": "Boutique Hotel",
+    "starRating": 5,
+    "country": "Singapore",
+    "city": "Singapore",
+    "area": "City Hall & Bras Basah, Singapore",
+    "distanceText": "0.3 km dari Raffles City Mall",
+    "badge": "Top Choice",
+    "rating": 9.8,
+    "reviewsCount": 2410,
+    "originalPrice": 15000000,
+    "price": 11500000,
+    "discountPercent": 23,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": false,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Hotel bersejarah legendaris sejak 1887 yang menjadi lambang keramahan mewah Asia Tenggara. Dilengkapi layanan butler legendaris, Long Bar legendaris tempat lahirnya Singapore Sling, dan halaman kolonial yang asri.",
+    "reviewBreakdown": {
+      "cleanliness": 9.9,
+      "comfort": 9.9,
+      "service": 10,
+      "location": 9.7
+    },
+    "coordinates": {
+      "lat": 1.2949,
+      "lng": 103.8544
+    },
+    "rooms": [
+      {
+        "id": "raffles-courtyard-suite",
+        "name": "Courtyard Suite with Butler Service",
+        "size": "58 m²",
+        "bedType": "1 Four-Poster King Bed",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 15000000,
+        "price": 11500000,
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Layanan Butler Pribadi 24 Jam",
+          "Lantai Kayu Jati Peranakan",
+          "Bathtub Klasik Cakar Singa",
+          "Veranda Luas"
+        ],
+        "remainingRooms": 1
+      }
+    ]
+  },
+  {
+    "id": "mandarin-oriental-kl",
+    "name": "Mandarin Oriental, Kuala Lumpur",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "area": "KLCC, Kuala Lumpur",
+    "distanceText": "0.3 km dari Menara Berkembar Petronas",
+    "badge": "Preferred Partner",
+    "rating": 9.5,
+    "reviewsCount": 3120,
+    "originalPrice": 3800000,
+    "price": 2850000,
+    "discountPercent": 25,
+    "flashSale": true,
+    "flashSaleRemaining": 4,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1596436889106-be35e843f974?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1596436889106-be35e843f974?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Terletak strategis di antara Menara Berkembar Petronas yang megah dan taman hijau KLCC Park. Menampilkan kolam renang infinity luar ruang berlatar gedung pencakar langit kota metropolitan.",
+    "reviewBreakdown": {
+      "cleanliness": 9.7,
+      "comfort": 9.6,
+      "service": 9.6,
+      "location": 9.9
+    },
+    "coordinates": {
+      "lat": 3.1556,
+      "lng": 101.7118
+    },
+    "rooms": [
+      {
+        "id": "mo-kl-deluxe-park",
+        "name": "Deluxe City View Room",
+        "size": "40 m²",
+        "bedType": "1 King Bed atau 2 Twin Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 3800000,
+        "price": 2850000,
+        "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Pemandangan Menara Petronas",
+          "Bathtub Rendam Mewah",
+          "Free Wi-Fi Berkecepatan Tinggi",
+          "Smart TV"
+        ],
+        "remainingRooms": 4
+      },
+      {
+        "id": "mo-kl-club-suite",
+        "name": "Club Executive Park Suite",
+        "size": "82 m²",
+        "bedType": "1 King Bed Master",
+        "maxGuests": 3,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 6200000,
+        "price": 4850000,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Akses Mandarin Oriental Club Lounge",
+          "Koktail Sore Gratis",
+          "Ruang Tamu Terpisah",
+          "Check-in Pribadi"
+        ],
+        "remainingRooms": 2
+      }
+    ]
+  },
+  {
+    "id": "datai-langkawi",
+    "name": "The Datai Langkawi",
+    "type": "Resort",
+    "starRating": 5,
+    "country": "Malaysia",
+    "city": "Langkawi",
+    "area": "Teluk Datai, Langkawi",
+    "distanceText": "0.2 km dari Pantai Teluk Datai",
+    "badge": "Eco Luxury",
+    "rating": 9.7,
+    "reviewsCount": 1840,
+    "originalPrice": 7900000,
+    "price": 5800000,
+    "discountPercent": 26,
+    "flashSale": true,
+    "flashSaleRemaining": 1,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": false,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Resor surga tersembunyi yang tertanam di hutan hujan purba berusia 10 juta tahun yang menghadap ke Teluk Datai dan Laut Andaman. Dinobatkan sebagai salah satu pantai terindah di dunia oleh National Geographic.",
+    "reviewBreakdown": {
+      "cleanliness": 9.9,
+      "comfort": 9.8,
+      "service": 9.9,
+      "location": 9.8
+    },
+    "coordinates": {
+      "lat": 6.4217,
+      "lng": 99.6708
+    },
+    "rooms": [
+      {
+        "id": "datai-canopy-deluxe",
+        "name": "Canopy Deluxe Rainforest Room",
+        "size": "63 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 7900000,
+        "price": 5800000,
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Balkon Kanopi Hutan",
+          "Tur Alam Bersama Naturalis",
+          "Kamar Mandi Terbuka",
+          "Sound System Bose"
+        ],
+        "remainingRooms": 1
+      }
+    ]
+  },
+  {
+    "id": "eo-hotel-penang",
+    "name": "Eastern & Oriental Hotel (E&O)",
+    "type": "Boutique Hotel",
+    "starRating": 5,
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "George Town, Penang",
+    "distanceText": "0.5 km dari Tapak Warisan UNESCO George Town",
+    "badge": "Colonial Heritage",
+    "rating": 9.3,
+    "reviewsCount": 2640,
+    "originalPrice": 2900000,
+    "price": 2150000,
+    "discountPercent": 26,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Hotel tepi laut legendaris bergaya kolonial Inggris didirikan oleh Sarkies Brothers pada tahun 1885 di George Town. Menawarkan kolam renang infinity tepi laut Selat Malaka dan tradisi teh petang terkemuka.",
+    "reviewBreakdown": {
+      "cleanliness": 9.4,
+      "comfort": 9.3,
+      "service": 9.5,
+      "location": 9.7
+    },
+    "coordinates": {
+      "lat": 5.4234,
+      "lng": 100.3359
+    },
+    "rooms": [
+      {
+        "id": "eo-deluxe-suite",
+        "name": "Heritage Wing Deluxe Suite",
+        "size": "58 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 2900000,
+        "price": 2150000,
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Pemandangan Laut Selat Malaka",
+          "Bathtub Kaki Cakar",
+          "Mini Bar Percuma",
+          "Balkon Klasik"
+        ],
+        "remainingRooms": 3
+      }
+    ]
+  },
+  {
+    "id": "banyan-tree-kl",
+    "name": "Banyan Tree Kuala Lumpur",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "area": "Bukit Bintang, Kuala Lumpur",
+    "distanceText": "0.2 km dari Pavilion Kuala Lumpur",
+    "badge": "Luxury Urban",
+    "rating": 9.4,
+    "reviewsCount": 1520,
+    "originalPrice": 4800000,
+    "price": 3650000,
+    "discountPercent": 24,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": false,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1561501900-3701fa6a0864?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1596436889106-be35e843f974?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Tempat peristirahatan mewah modern di kawasan segitiga emas Bukit Bintang. Dilengkapi jembatan penghubung langsung ke Pavilion Mall dan bar Vertigo di lantai 59 dengan pemandangan 360 derajat kota.",
+    "reviewBreakdown": {
+      "cleanliness": 9.6,
+      "comfort": 9.5,
+      "service": 9.5,
+      "location": 9.8
+    },
+    "coordinates": {
+      "lat": 3.1499,
+      "lng": 101.7142
+    },
+    "rooms": [
+      {
+        "id": "bt-signature-room",
+        "name": "Signature Sky Sanctuary Room",
+        "size": "54 m²",
+        "bedType": "1 King Bed Super King",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 4800000,
+        "price": 3650000,
+        "image": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Kolam Rendam di Dalam Kamar",
+          "Pemandangan Menara KL",
+          "Aromaterapi Khas Banyan",
+          "Sound System Marshall"
+        ],
+        "remainingRooms": 2
+      }
+    ]
+  },
+  {
+    "id": "parkroyal-penang",
+    "name": "PARKROYAL Resort Penang",
+    "type": "Resort",
+    "starRating": 5,
+    "country": "Malaysia",
+    "city": "Penang",
+    "area": "Batu Ferringhi, Penang",
+    "distanceText": "0.1 km dari Pantai Batu Ferringhi",
+    "badge": "Beachfront Favorite",
+    "rating": 9.1,
+    "reviewsCount": 2180,
+    "originalPrice": 2200000,
+    "price": 1680000,
+    "discountPercent": 23,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Resor pantai tepi laut pemenang penghargaan di tepi pantai pasir putih Batu Ferringhi. Menampilkan kolam renang laguna tropis dengan seluncuran air dan bar santai di bawah pohon kelapa.",
+    "reviewBreakdown": {
+      "cleanliness": 9.2,
+      "comfort": 9.1,
+      "service": 9.2,
+      "location": 9.4
+    },
+    "coordinates": {
+      "lat": 5.4746,
+      "lng": 100.2458
+    },
+    "rooms": [
+      {
+        "id": "pr-penang-deluxe",
+        "name": "Deluxe Ocean View Room",
+        "size": "35 m²",
+        "bedType": "1 King Bed atau 2 Twin Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 2200000,
+        "price": 1680000,
+        "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Balkon Menghadap Laut",
+          "Akses Kolam Laguna",
+          "WiFi Pantas",
+          "Kemasukan Terus ke Pantai"
+        ],
+        "remainingRooms": 3
+      }
+    ]
+  },
+  {
+    "id": "theruma-hotel-kl",
+    "name": "The RuMa Hotel and Residences",
+    "type": "Boutique Hotel",
+    "starRating": 5,
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "area": "Jalan Kia Peng, Kuala Lumpur",
+    "distanceText": "0.5 km dari Pavilion KL & KLCC",
+    "badge": "Artisan Sanctuary",
+    "rating": 9.4,
+    "reviewsCount": 1290,
+    "originalPrice": 3100000,
+    "price": 2380000,
+    "discountPercent": 23,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1596436889106-be35e843f974?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1561501900-3701fa6a0864?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Sanctuary bergaya butik kontemporer dengan penghormatan mendalam pada kebudayaan kerajinan tangan Malaysia. Menampilkan kolam renang cantilever mengambang dan santapan berbintang Michelin.",
+    "reviewBreakdown": {
+      "cleanliness": 9.6,
+      "comfort": 9.5,
+      "service": 9.6,
+      "location": 9.7
+    },
+    "coordinates": {
+      "lat": 3.1524,
+      "lng": 101.7135
+    },
+    "rooms": [
+      {
+        "id": "ruma-grand-deluxe",
+        "name": "Grand Deluxe Room",
+        "size": "45 m²",
+        "bedType": "1 King Bed Plush",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 3100000,
+        "price": 2380000,
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Kamar Mandi Marmer Terbuka",
+          "Mini Bar Percuma Setiap Hari",
+          "Layanan Butler Ramah Tamah",
+          "TV Cermin Interaktif"
+        ],
+        "remainingRooms": 3
+      }
+    ]
+  },
+  {
+    "id": "kempinski-bali",
+    "name": "The Apurva Kempinski Bali",
+    "type": "Resort",
+    "starRating": 5,
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Nusa Dua, Bali",
+    "distanceText": "0.8 km dari Pantai Sawangan",
+    "badge": "Preferred Partner",
+    "rating": 9.4,
+    "reviewsCount": 3820,
+    "originalPrice": 5200000,
+    "price": 3890000,
+    "discountPercent": 25,
+    "flashSale": true,
+    "flashSaleRemaining": 3,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Berdiri megah di atas tebing megah Nusa Dua dengan pemandangan Samudra Hindia yang memukau dan taman tropis yang rimbun. Menampilkan arsitektur candi megah khas Indonesia dan akuarium restoran spektakuler.",
+    "reviewBreakdown": {
+      "cleanliness": 9.6,
+      "comfort": 9.5,
+      "service": 9.7,
+      "location": 9.2
+    },
+    "coordinates": {
+      "lat": -8.8256,
+      "lng": 115.2189
+    },
+    "rooms": [
+      {
+        "id": "kemp-grand-deluxe",
+        "name": "Grand Deluxe Ocean Court",
+        "size": "65 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 5200000,
+        "price": 3890000,
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Balkon Luas",
+          "Bathtub Mewah",
+          "Free Mini Bar",
+          "Smart TV 55\"",
+          "Mesin Espresso"
+        ],
+        "remainingRooms": 2
+      },
+      {
+        "id": "kemp-cliff-pool",
+        "name": "Cliff Private Pool Junior Suite",
+        "size": "100 m²",
+        "bedType": "1 King Bed Super King",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 8500000,
+        "price": 6490000,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Private Plunge Pool",
+          "Akses Cliff Lounge",
+          "Butler 24 Jam",
+          "Jacuzzi",
+          "Pemandangan Laut"
+        ],
+        "remainingRooms": 1
+      }
+    ]
+  },
+  {
+    "id": "padma-ubud",
+    "name": "Padma Resort Ubud",
+    "type": "Resort",
+    "starRating": 5,
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Payangan, Ubud, Bali",
+    "distanceText": "12 km dari Ubud Monkey Forest",
+    "badge": "Preferred Partner",
+    "rating": 9.6,
+    "reviewsCount": 4210,
+    "originalPrice": 4800000,
+    "price": 3450000,
+    "discountPercent": 28,
+    "flashSale": true,
+    "flashSaleRemaining": 2,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Resor bintang 5 mewah yang tenang di Payangan, dikelilingi hutan bambu lebat dan lembah sungai yang sejuk. Menawarkan kolam renang infinity air hangat 89 meter berpemandangan kanopi hutan tropis.",
+    "reviewBreakdown": {
+      "cleanliness": 9.8,
+      "comfort": 9.7,
+      "service": 9.8,
+      "location": 9.4
+    },
+    "coordinates": {
+      "lat": -8.3619,
+      "lng": 115.2443
+    },
+    "rooms": [
+      {
+        "id": "padma-premier-room",
+        "name": "Premier Forest View Room",
+        "size": "59 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 4800000,
+        "price": 3450000,
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Balkon Luas Lembah",
+          "Bathtub Mandi Terbuka",
+          "Akses Kolam Infinity Air Hangat"
+        ],
+        "remainingRooms": 2
+      }
+    ]
+  },
+  {
+    "id": "kempinski-jakarta",
+    "name": "Hotel Indonesia Kempinski Jakarta",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "area": "Thamrin, Jakarta Pusat",
+    "distanceText": "0.1 km dari Bundaran HI",
+    "badge": "Preferred Partner",
+    "rating": 9.2,
+    "reviewsCount": 5120,
+    "originalPrice": 3400000,
+    "price": 2580000,
+    "discountPercent": 24,
+    "flashSale": true,
+    "flashSaleRemaining": 4,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1596436889106-be35e843f974?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Hotel bintang 5 legendaris bersejarah pertama di Indonesia yang berlokasi tepat di jantung ibu kota, menghadap langsung air mancur ikonik Bundaran HI dan terhubung langsung ke Grand Indonesia Shopping Town.",
+    "reviewBreakdown": {
+      "cleanliness": 9.4,
+      "comfort": 9.3,
+      "service": 9.5,
+      "location": 9.8
+    },
+    "coordinates": {
+      "lat": -6.1953,
+      "lng": 106.8231
+    },
+    "rooms": [
+      {
+        "id": "kemp-jkt-deluxe",
+        "name": "Deluxe Room Bundaran HI View",
+        "size": "44 m²",
+        "bedType": "1 King Bed atau 2 Single Beds",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 3400000,
+        "price": 2580000,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Pemandangan Bundaran HI",
+          "Akses Kolam Renang Rooftop",
+          "Akses Langsung Grand Indonesia"
+        ],
+        "remainingRooms": 4
+      }
+    ]
+  },
+  {
+    "id": "padma-bandung",
+    "name": "Padma Hotel Bandung",
+    "type": "Resort",
+    "starRating": 5,
+    "country": "Indonesia",
+    "city": "Bandung",
+    "area": "Ciumbuleuit, Bandung",
+    "distanceText": "4.5 km dari Gedung Sate",
+    "badge": "Preferred Partner",
+    "rating": 9.3,
+    "reviewsCount": 3950,
+    "originalPrice": 2800000,
+    "price": 1980000,
+    "discountPercent": 29,
+    "flashSale": true,
+    "flashSaleRemaining": 1,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Resor lereng bukit spektakuler di Ciumbuleuit Bandung dengan pemandangan lembah hijau asri tanpa batas. Udara sejuk pegunungan, kolam renang infinity air hangat, dan teh sore khas Sunda melengkapi liburan keluarga.",
+    "reviewBreakdown": {
+      "cleanliness": 9.5,
+      "comfort": 9.4,
+      "service": 9.6,
+      "location": 9.2
+    },
+    "coordinates": {
+      "lat": -6.8524,
+      "lng": 107.6044
+    },
+    "rooms": [
+      {
+        "id": "padma-bdg-deluxe",
+        "name": "Deluxe Hillside Room",
+        "size": "38 m²",
+        "bedType": "1 King Bed",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 2800000,
+        "price": 1980000,
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Pemandangan Lembah Hijau",
+          "Teh Sore Gratis Harian",
+          "Akses Kolam Hangat"
+        ],
+        "remainingRooms": 1
+      }
+    ]
+  },
+  {
+    "id": "tentrem-yogyakarta",
+    "name": "Hotel Tentrem Yogyakarta",
+    "type": "Hotel",
+    "starRating": 5,
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "area": "Jetis, Kota Yogyakarta",
+    "distanceText": "2.1 km dari Jalan Malioboro",
+    "badge": "Javanese Heritage",
+    "rating": 9.4,
+    "reviewsCount": 3410,
+    "originalPrice": 2450000,
+    "price": 1750000,
+    "discountPercent": 28,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": true,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Hotel kemewahan bintang lima di Yogyakarta yang mengusung filosofi ketenteraman jiwa Jawa berpadu fasilitas kontemporer mutakhir. Pusat kebugaran lengkap, spa herbal keraton, dan kolam renang luas.",
+    "reviewBreakdown": {
+      "cleanliness": 9.6,
+      "comfort": 9.5,
+      "service": 9.6,
+      "location": 9.4
+    },
+    "coordinates": {
+      "lat": -7.7719,
+      "lng": 110.3687
+    },
+    "rooms": [
+      {
+        "id": "tentrem-deluxe",
+        "name": "Deluxe King Room",
+        "size": "40 m²",
+        "bedType": "1 King Bed",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 2450000,
+        "price": 1750000,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Kamar Mandi Marmer Mewah",
+          "Balkon Pribadi",
+          "Smart TV 50\"",
+          "Sarapan Keraton Tradisional"
+        ],
+        "remainingRooms": 3
+      }
+    ]
+  },
+  {
+    "id": "alila-uluwatu",
+    "name": "Alila Villas Uluwatu",
+    "type": "Villa",
+    "starRating": 5,
+    "country": "Indonesia",
+    "city": "Bali",
+    "area": "Pecatu, Uluwatu, Bali",
+    "distanceText": "1.2 km dari Pura Uluwatu",
+    "badge": "Exclusive Luxury",
+    "rating": 9.8,
+    "reviewsCount": 1650,
+    "originalPrice": 12500000,
+    "price": 9200000,
+    "discountPercent": 26,
+    "flashSale": false,
+    "flashSaleRemaining": 0,
+    "freeBreakfast": true,
+    "freeCancellation": true,
+    "payAtHotel": false,
+    "hasPool": true,
+    "hasWifi": true,
+    "hasSpa": true,
+    "hasRestaurant": true,
+    "hasGym": true,
+    "mainImage": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=800&h=520&q=80",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=400&q=80"
+    ],
+    "description": "Resor villa mewah tebing kapur ikonik di semenanjung selatan Bali yang dirancang ramah lingkungan oleh WOHA. Terkenal di seluruh dunia dengan cabana gantung sarang burung spektakuler di atas Samudra Hindia.",
+    "reviewBreakdown": {
+      "cleanliness": 9.9,
+      "comfort": 9.8,
+      "service": 9.9,
+      "location": 9.7
+    },
+    "coordinates": {
+      "lat": -8.8471,
+      "lng": 115.1378
+    },
+    "rooms": [
+      {
+        "id": "alila-one-bedroom",
+        "name": "One-Bedroom Private Pool Cliff Villa",
+        "size": "290 m²",
+        "bedType": "1 King Bed Master Villa",
+        "maxGuests": 2,
+        "freeBreakfast": true,
+        "freeCancellation": true,
+        "originalPrice": 12500000,
+        "price": 9200000,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=600&q=80",
+        "amenities": [
+          "Private Infinity Pool",
+          "Cabana Gantung Samudra",
+          "Butler Pribadi 24 Jam",
+          "Kamar Mandi Semi Terbuka"
+        ],
+        "remainingRooms": 1
+      }
+    ]
+  }
+]

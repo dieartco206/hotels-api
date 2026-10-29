@@ -38,22 +38,31 @@ func GetHotels(c *gin.Context) {
 		query = query.Where("status = ?", models.HotelStatusActive)
 	}
 
-	// Filter by country
-	country := strings.ToUpper(strings.TrimSpace(c.Query("country")))
-	if country != "" && country != "ALL" {
-		query = query.Where("country = ?", country)
+	// Filter by country (supports 'SG', 'MY', 'ID', 'Singapore', 'Malaysia', 'Indonesia')
+	country := strings.TrimSpace(c.Query("country"))
+	if country != "" && strings.ToUpper(country) != "ALL" {
+		upper := strings.ToUpper(country)
+		if upper == "SG" || upper == "SINGAPORE" {
+			query = query.Where("country IN ('SG', 'Singapore')")
+		} else if upper == "ID" || upper == "INDONESIA" {
+			query = query.Where("country IN ('ID', 'Indonesia')")
+		} else if upper == "MY" || upper == "MALAYSIA" {
+			query = query.Where("country IN ('MY', 'Malaysia')")
+		} else {
+			query = query.Where("country = ?", country)
+		}
 	}
 
 	// Filter by city
 	city := strings.TrimSpace(c.Query("city"))
-	if city != "" {
+	if city != "" && city != "Semua Kota" && city != "All Cities" {
 		query = query.Where("city LIKE ?", "%"+city+"%")
 	}
 
 	// Filter by type
 	hotelType := strings.TrimSpace(c.Query("type"))
 	if hotelType != "" && hotelType != "all" {
-		query = query.Where("type = ?", hotelType)
+		query = query.Where("type LIKE ?", "%"+hotelType+"%")
 	}
 
 	// Keyword search
@@ -70,6 +79,11 @@ func GetHotels(c *gin.Context) {
 		}
 	}
 
+	// Flash sale filter
+	if c.Query("flash_sale") == "true" {
+		query = query.Where("flash_sale = ?", true)
+	}
+
 	// Sorting
 	sortBy := c.Query("sort")
 	switch sortBy {
@@ -79,6 +93,8 @@ func GetHotels(c *gin.Context) {
 		query = query.Order("price_start DESC")
 	case "rating_desc":
 		query = query.Order("rating DESC, review_count DESC")
+	case "discount_desc":
+		query = query.Order("discount_percent DESC")
 	default:
 		query = query.Order("rating DESC, id ASC")
 	}
@@ -131,9 +147,9 @@ func CreateHotel(c *gin.Context) {
 
 	currency := strings.ToUpper(input.Currency)
 	if currency == "" {
-		if input.Country == "SG" {
+		if strings.Contains(strings.ToUpper(input.Country), "SG") {
 			currency = "SGD"
-		} else if input.Country == "MY" {
+		} else if strings.Contains(strings.ToUpper(input.Country), "MY") {
 			currency = "MYR"
 		} else {
 			currency = "IDR"
@@ -146,24 +162,33 @@ func CreateHotel(c *gin.Context) {
 	}
 
 	hotel := models.Hotel{
-		Name:        strings.TrimSpace(input.Name),
-		Tagline:     strings.TrimSpace(input.Tagline),
-		Type:        strings.ToLower(input.Type),
-		City:        strings.TrimSpace(input.City),
-		Area:        strings.TrimSpace(input.Area),
-		Country:     strings.ToUpper(input.Country),
-		Address:     strings.TrimSpace(input.Address),
-		StarRating:  star,
-		Rating:      4.9,
-		ReviewCount: 1,
-		PriceStart:  input.PriceStart,
-		Currency:    currency,
-		Image:       input.Image,
-		Gallery:     input.Gallery,
-		Facilities:  input.Facilities,
-		Description: input.Description,
-		PartnerID:   userID,
-		Status:      models.HotelStatusActive,
+		Name:              strings.TrimSpace(input.Name),
+		Tagline:           strings.TrimSpace(input.Tagline),
+		Type:              input.Type,
+		City:              strings.TrimSpace(input.City),
+		Area:              strings.TrimSpace(input.Area),
+		Country:           strings.TrimSpace(input.Country),
+		Address:           strings.TrimSpace(input.Address),
+		StarRating:        star,
+		Rating:            4.9,
+		ReviewCount:       1,
+		PriceStart:        input.PriceStart,
+		Currency:          currency,
+		Image:             input.Image,
+		Gallery:           input.Gallery,
+		Facilities:        input.Facilities,
+		Description:       input.Description,
+		PartnerID:         userID,
+		Status:            models.HotelStatusActive,
+		FreeBreakfast:     true,
+		FreeCancellation:  true,
+		HasPool:           true,
+		HasWifi:           true,
+		HasRestaurant:     true,
+		ReviewCleanliness: 9.8,
+		ReviewComfort:     9.7,
+		ReviewService:     9.8,
+		ReviewLocation:    9.9,
 	}
 
 	if err := config.DB.Create(&hotel).Error; err != nil {
@@ -192,7 +217,6 @@ func UpdateHotel(c *gin.Context) {
 		return
 	}
 
-	// Security: verify partner ownership unless admin
 	roleVal, _ := c.Get("userRole")
 	userRole, _ := roleVal.(models.UserRole)
 	userIDVal, _ := c.Get("userID")
@@ -209,7 +233,6 @@ func UpdateHotel(c *gin.Context) {
 		return
 	}
 
-	// Strip un-editable fields
 	delete(updateData, "id")
 	delete(updateData, "partner_id")
 	delete(updateData, "created_at")
