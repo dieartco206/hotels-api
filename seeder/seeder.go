@@ -72,14 +72,7 @@ type SeedHotel struct {
 }
 
 func Seed() {
-	var count int64
-	config.DB.Model(&models.Hotel{}).Count(&count)
-	if count >= 17 {
-		log.Println("[INFO] Database already has complete 17 luxury properties. Skipping re-seed.")
-		return
-	}
-
-	log.Println("[INFO] Clearing existing test data and seeding full 17 cross-border real hotels...")
+	log.Println("[INFO] Seeding / refreshing database with 17 luxury properties and 100% unique authentic photography...")
 
 	// Truncate/Clean old tables to avoid conflicts
 	config.DB.Exec("SET FOREIGN_KEY_CHECKS = 0;")
